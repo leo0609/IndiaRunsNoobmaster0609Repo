@@ -1,101 +1,101 @@
 candidate_id,rank,score,reasoning
-CAND_0088025,1,1.19421,
-CAND_0018499,2,1.1899199999999999,
-CAND_0071974,3,1.187805,
-CAND_0008425,4,1.18668,
-CAND_0079387,5,1.184175,
-CAND_0069905,6,1.18278,
-CAND_0046064,7,1.1784599999999998,
-CAND_0077337,8,1.1779199999999999,
-CAND_0041669,9,1.17594,
-CAND_0029367,10,1.1677870000000001,
-CAND_0050876,11,1.1675799999999998,
-CAND_0064326,12,1.14798,
-CAND_0055905,13,1.1426,
-CAND_0005649,14,1.14,
-CAND_0070398,15,1.1346762500000003,
-CAND_0009691,16,1.131269375,
-CAND_0007009,17,1.1305,
-CAND_0037566,18,1.123872,
-CAND_0051292,19,1.1232,
-CAND_0011687,20,1.1220599999999998,
-CAND_0081846,21,1.1188799999999999,
-CAND_0086022,22,1.1001599999999998,
-CAND_0052682,23,1.0951272500000002,
-CAND_0028793,24,1.0838415000000001,
-CAND_0068811,25,1.083,
-CAND_0009024,26,1.08281125,
-CAND_0002025,27,1.0752,
-CAND_0074735,28,1.0732590000000002,
-CAND_0042506,29,1.06182,
-CAND_0041568,30,1.060461,
-CAND_0078002,31,1.0594000000000001,
-CAND_0041610,32,1.05816,
-CAND_0013613,33,1.0580755000000002,
-CAND_0007412,34,1.0562486666666668,
-CAND_0046525,35,1.0460559999999999,
-CAND_0039383,36,1.0452953333333335,
-CAND_0065878,37,1.0442486666666666,
-CAND_0079064,38,1.0438375,
-CAND_0051004,39,1.034576,
-CAND_0069638,40,1.029084,
-CAND_0083307,41,1.026,
-CAND_0000031,42,1.02094125,
-CAND_0053695,43,1.0188000000000001,
-CAND_0066376,44,1.0175150000000002,
-CAND_0058575,45,1.01637,
-CAND_0027801,46,1.0138975000000001,
-CAND_0075249,47,1.0105701666666669,
-CAND_0040887,48,1.0093599999999998,
-CAND_0039754,49,1.0077,
-CAND_0011432,50,1.0066405,
-CAND_0018549,51,0.99342,
-CAND_0075574,52,0.9932720000000002,
-CAND_0040117,53,0.9760092499999999,
-CAND_0098846,54,0.9738000000000001,
-CAND_0015578,55,0.9720000000000001,
-CAND_0010685,56,0.9701400000000001,
-CAND_0027691,57,0.9673522000000001,
-CAND_0086151,58,0.9655470000000003,
-CAND_0044222,59,0.9645599999999999,
-CAND_0096142,60,0.9582375000000002,
-CAND_0067866,61,0.9534400000000001,
-CAND_0065786,62,0.94954,
-CAND_0084819,63,0.9447866666666668,
-CAND_0092255,64,0.9447750000000001,
-CAND_0010149,65,0.9355000666666667,
-CAND_0049896,66,0.9343413333333334,
-CAND_0081686,67,0.9325759999999998,
-CAND_0017960,68,0.9275680000000001,
-CAND_0001610,69,0.9265,
-CAND_0091909,70,0.9252900000000001,
-CAND_0031593,71,0.9211484000000001,
-CAND_0025882,72,0.9205730666666668,
-CAND_0080766,73,0.9193524999999999,
-CAND_0074225,74,0.9167715000000001,
-CAND_0020877,75,0.908999,
-CAND_0006557,76,0.90772,
-CAND_0053591,77,0.9062399999999999,
-CAND_0010257,78,0.9061131000000001,
-CAND_0030953,79,0.90579985,
-CAND_0015528,80,0.9008875000000001,
-CAND_0052328,81,0.8990412500000002,
-CAND_0026532,82,0.895254,
-CAND_0077285,83,0.8937600000000001,
-CAND_0061339,84,0.892816,
-CAND_0044855,85,0.88833,
-CAND_0044883,86,0.88616,
-CAND_0004402,87,0.8804756833333337,
-CAND_0095528,88,0.8803971250000002,
-CAND_0016163,89,0.8793095000000002,
-CAND_0037980,90,0.8791400000000001,
-CAND_0088385,91,0.8787594666666667,
-CAND_0052335,92,0.8773221333333334,
-CAND_0047521,93,0.8760668,
-CAND_0069248,94,0.875255416666667,
-CAND_0037944,95,0.8747199999999999,
-CAND_0057563,96,0.8712,
-CAND_0093883,97,0.8645706666666668,
-CAND_0005509,98,0.8627040000000001,
-CAND_0024466,99,0.861692,
-CAND_0054123,100,0.8612762666666667,
+CAND_0088025,1,1.19421,"Built a/b test/embedding systems as Staff Machine Learning Engineer at Yellow.ai. Relevant skills: Pinecone, QLoRA, RAG."
+CAND_0018499,2,1.1899199999999999,"Built dense retrieval/embedding systems as Senior Machine Learning Engineer at Zomato. Relevant skills: Deep Learning, Weaviate, Recommendation Systems."
+CAND_0071974,3,1.187805,"Built a/b test/embedding systems as Senior AI Engineer at Netflix. Relevant skills: LoRA, Learning to Rank, Weaviate."
+CAND_0008425,4,1.18668,"Built embedding/fine-tune systems as Senior NLP Engineer at Ola. Relevant skills: Learning to Rank, Qdrant, pgvector."
+CAND_0079387,5,1.184175,"Built a/b test/a/b testing systems as AI Engineer at Microsoft. Relevant skills: scikit-learn, Recommendation Systems, Sentence Transformers."
+CAND_0069905,6,1.18278,"Built elasticsearch/faiss systems as Applied ML Engineer at Sarvam AI. Relevant skills: LoRA, Recommendation Systems, Sentence Transformers."
+CAND_0046064,7,1.1784599999999998,"Built deployed/fine-tune systems as Senior NLP Engineer at Salesforce. Relevant skills: Pinecone, OpenSearch, PEFT."
+CAND_0077337,8,1.1779199999999999,"Built a/b test/embedding systems as Staff Machine Learning Engineer at Paytm. Relevant skills: Semantic Search, QLoRA, pgvector."
+CAND_0041669,9,1.17594,"Built feature pipeline/ranking systems as Recommendation Systems Engineer at CRED. Relevant skills: FAISS, Milvus, PEFT."
+CAND_0029367,10,1.1677870000000001,"Built elasticsearch/faiss systems as Senior Data Scientist at Rephrase.ai. Relevant skills: BentoML, TensorFlow, QLoRA."
+CAND_0050876,11,1.1675799999999998,"Built feature pipeline/ranking systems as Applied ML Engineer at Freshworks. Relevant skills: Qdrant, MLOps, FAISS."
+CAND_0064326,12,1.14798,"Built feature pipeline/ranking systems as Search Engineer at Sarvam AI. Relevant skills: scikit-learn, PyTorch, Milvus."
+CAND_0055905,13,1.1426,"Built embedding/fine-tune systems as Senior Machine Learning Engineer at Flipkart. Relevant skills: Elasticsearch, OpenSearch, Fine-tuning LLMs."
+CAND_0005649,14,1.14,"Built elasticsearch/faiss systems as Senior Data Scientist at Sarvam AI. Relevant skills: Deep Learning, TensorFlow, Fine-tuning LLMs."
+CAND_0070398,15,1.1346762500000003,"Built elasticsearch/faiss systems as Machine Learning Engineer at Genpact AI. Relevant skills: RAG, FAISS, Embeddings. Behavioral flags: notice 120d."
+CAND_0009691,16,1.131269375,"Built a/b test/a/b testing systems as Applied ML Engineer at LinkedIn. Relevant skills: BentoML, Recommendation Systems, Fine-tuning LLMs. Behavioral flags: notice 120d."
+CAND_0007009,17,1.1305,"Built deployment/embedding systems as Recommendation Systems Engineer at Wysa. Relevant skills: Weaviate, Embeddings, Learning to Rank. Behavioral flags: inactive 105d."
+CAND_0037566,18,1.123872,"Built deployment/embedding systems as Machine Learning Engineer at LinkedIn. Relevant skills: Pinecone, NLP, LoRA."
+CAND_0051292,19,1.1232,"Built feature pipeline/ranking systems as Applied ML Engineer at Freshworks. Relevant skills: pgvector, FAISS, BentoML."
+CAND_0011687,20,1.1220599999999998,"Built a/b test/embedding systems as Senior NLP Engineer at Niramai. Relevant skills: TensorFlow, OpenSearch, FAISS."
+CAND_0081846,21,1.1188799999999999,"Built dense retrieval/embedding systems as Lead AI Engineer at Razorpay. Relevant skills: Information Retrieval, pgvector, Learning to Rank."
+CAND_0086022,22,1.1001599999999998,"Built dense retrieval/embedding systems as Senior Applied Scientist at Sarvam AI. Relevant skills: Recommendation Systems, pgvector, Fine-tuning LLMs."
+CAND_0052682,23,1.0951272500000002,"Built a/b test/a/b testing systems as NLP Engineer at Aganitha. Relevant skills: QLoRA, Semantic Search, FAISS. Behavioral flags: inactive 96d."
+CAND_0028793,24,1.0838415000000001,"Built elasticsearch/faiss systems as Search Engineer at Google. Relevant skills: Embeddings, LoRA, Learning to Rank. Behavioral flags: notice 120d."
+CAND_0068811,25,1.083,"Built a/b test/a/b testing systems as Applied ML Engineer at Freshworks. Relevant skills: Qdrant, scikit-learn, TensorFlow."
+CAND_0009024,26,1.08281125,"Built a/b test/a/b testing systems as Search Engineer at Google. Relevant skills: Qdrant, PEFT, FAISS."
+CAND_0002025,27,1.0752,"Built a/b test/embedding systems as Senior AI Engineer at Apple. Relevant skills: FAISS, TensorFlow, scikit-learn."
+CAND_0074735,28,1.0732590000000002,"Built deployment/embedding systems as Applied ML Engineer at Rephrase.ai. Relevant skills: RAG, Machine Learning, Weaviate. Behavioral flags: inactive 96d."
+CAND_0042506,29,1.06182,"Built deployment/embedding systems as Search Engineer at Verloop.io. Relevant skills: PEFT, scikit-learn, Semantic Search."
+CAND_0041568,30,1.060461,"Built feature pipeline/ranking systems as Search Engineer at Haptik. Relevant skills: PEFT, Weaviate, TensorFlow."
+CAND_0078002,31,1.0594000000000001,"Built a/b test/lightgbm systems as Machine Learning Engineer at Meta. Relevant skills: pgvector, TensorFlow, NLP."
+CAND_0041610,32,1.05816,"Built feature pipeline/ranking systems as Recommendation Systems Engineer at Zoho. Relevant skills: LoRA, Elasticsearch, OpenSearch."
+CAND_0013613,33,1.0580755000000002,"Built elasticsearch/faiss systems as Machine Learning Engineer at Adobe. Relevant skills: LoRA, TensorFlow, Weaviate. Behavioral flags: inactive 101d."
+CAND_0007412,34,1.0562486666666668,"Built deployment/embedding systems as Applied ML Engineer at Zoho. Relevant skills: scikit-learn, Pinecone, Milvus. Behavioral flags: notice 120d."
+CAND_0046525,35,1.0460559999999999,"Built a/b test/a/b testing systems as Senior Machine Learning Engineer at Genpact AI. Relevant skills: Elasticsearch, Machine Learning, Information Retrieval."
+CAND_0039383,36,1.0452953333333335,"Built a/b test/lightgbm systems as Applied ML Engineer at Meesho. Relevant skills: FAISS, Recommendation Systems, QLoRA. Behavioral flags: inactive 105d."
+CAND_0065878,37,1.0442486666666666,"Built feature pipeline/ranking systems as Senior Data Scientist at Niramai. Relevant skills: scikit-learn, RAG, pgvector. Behavioral flags: inactive 101d."
+CAND_0079064,38,1.0438375,"Built elasticsearch/faiss systems as Senior Data Scientist at Niramai. Relevant skills: OpenSearch, NLP, Semantic Search. Behavioral flags: notice 120d."
+CAND_0051004,39,1.034576,"Built deployment/embedding systems as Senior Data Scientist at CRED. Relevant skills: Embeddings, Semantic Search, PyTorch."
+CAND_0069638,40,1.029084,"Built deployment/production systems as Computer Vision Engineer at Swiggy. Relevant skills: Semantic Search, Fine-tuning LLMs, PEFT."
+CAND_0083307,41,1.026,"Built deployment/embedding systems as Search Engineer at CRED. Relevant skills: scikit-learn, Embeddings, QLoRA. Behavioral flags: inactive 103d; notice 120d."
+CAND_0000031,42,1.02094125,"Built a/b test/lightgbm systems as Recommendation Systems Engineer at Swiggy. Relevant skills: FAISS, Pinecone, Machine Learning."
+CAND_0066376,43,1.0175150000000002,"Built a/b test/a/b testing systems as Applied ML Engineer at Dream11. Relevant skills: Recommendation Systems, LoRA, Learning to Rank."
+CAND_0058575,44,1.01637,"Built elasticsearch/faiss systems as AI Engineer at Krutrim. Relevant skills: MLOps, Machine Learning, Recommendation Systems."
+CAND_0027801,45,1.0138975000000001,"Built production systems as NLP Engineer at InMobi. Relevant skills: FAISS, Milvus, QLoRA. Behavioral flags: notice 120d."
+CAND_0075249,46,1.0105701666666669,"Built a/b test/a/b testing systems as Applied ML Engineer at Zomato. Relevant skills: Sentence Transformers, Milvus, Machine Learning."
+CAND_0040887,47,1.0093599999999998,"Built elasticsearch/faiss systems as Machine Learning Engineer at Netflix. Relevant skills: FAISS, LoRA, PEFT."
+CAND_0039754,48,1.0077,"Built a/b test/embedding systems as Senior Applied Scientist at Meta. Relevant skills: Fine-tuning LLMs, Qdrant, NLP."
+CAND_0011432,49,1.0066405,"Built a/b test/lightgbm systems as Senior Data Scientist at Amazon. Relevant skills: MLOps, OpenSearch, BentoML. Behavioral flags: inactive 108d."
+CAND_0018549,50,0.99342,"Built feature pipeline/ranking systems as Recommendation Systems Engineer at Uber. Relevant skills: Weaviate, Elasticsearch, Qdrant."
+CAND_0075574,51,0.9932720000000002,"Built feature pipeline/ranking systems as Machine Learning Engineer at Haptik. Relevant skills: pgvector, Weaviate, Recommendation Systems."
+CAND_0053695,52,0.9848400000000003,"Built a/b test/lightgbm systems as Recommendation Systems Engineer at Meesho. Relevant skills: MLOps, Pinecone, Recommendation Systems. Behavioral flags: inactive 91d."
+CAND_0040117,53,0.9760092499999999,"Built a/b test/a/b testing systems as Recommendation Systems Engineer at PhonePe. Relevant skills: Embeddings, RAG, FAISS. Behavioral flags: inactive 107d."
+CAND_0098846,54,0.9738000000000001,"Built feature pipeline/ranking systems as AI Engineer at upGrad. Relevant skills: PEFT, QLoRA, Machine Learning."
+CAND_0015578,55,0.9720000000000001,"Built deployment/embedding systems as AI Engineer at Zoho. Relevant skills: Embeddings, NLP, Machine Learning. Behavioral flags: inactive 92d."
+CAND_0010685,56,0.9701400000000001,"Built feature pipeline/ranking systems as NLP Engineer at Rephrase.ai. Relevant skills: Deep Learning, PyTorch, Information Retrieval. Behavioral flags: inactive 108d."
+CAND_0027691,57,0.9673522000000001,"Built production systems as NLP Engineer at Haptik. Relevant skills: LoRA, PEFT, Recommendation Systems. Behavioral flags: inactive 93d."
+CAND_0086151,58,0.9655470000000003,"Built feature pipeline/ranking systems as Recommendation Systems Engineer at Wysa. Relevant skills: BentoML, Recommendation Systems, Qdrant. Behavioral flags: inactive 101d; notice 120d."
+CAND_0044222,59,0.9645599999999999,"Built elasticsearch/faiss systems as AI Engineer at PolicyBazaar. Relevant skills: OpenSearch, Qdrant, Weaviate."
+CAND_0096142,60,0.9582375000000002,"Built a/b test/lightgbm systems as Applied ML Engineer at upGrad. Relevant skills: LoRA, Weaviate, Pinecone. Behavioral flags: notice 120d."
+CAND_0067866,61,0.9534400000000001,"Built deployment/production systems as Senior Software Engineer (ML) at Tech Mahindra. Relevant skills: Embeddings, pgvector, Elasticsearch."
+CAND_0065786,62,0.94954,"Built deployment/production systems as AI Specialist at Swiggy. Relevant skills: LoRA, Learning to Rank, BentoML."
+CAND_0084819,63,0.9447866666666668,"Built deployment/embedding systems as Search Engineer at Dream11. Relevant skills: Semantic Search, MLOps, OpenSearch. Behavioral flags: notice 120d."
+CAND_0092255,64,0.9447750000000001,"Built production/xgboost systems as ML Engineer at InMobi. Relevant skills: Machine Learning, PyTorch, Weaviate."
+CAND_0010149,65,0.9355000666666667,"Built fine-tune/inference systems as ML Engineer at Glance. Relevant skills: Milvus, Learning to Rank, PEFT."
+CAND_0049896,66,0.9343413333333334,"Built deployment/embedding systems as Search Engineer at Unacademy. Relevant skills: Sentence Transformers, PyTorch, Information Retrieval."
+CAND_0081686,67,0.9325759999999998,"Built feature pipeline/ranking systems as Search Engineer at Netflix. Relevant skills: Machine Learning, Embeddings, FAISS. Behavioral flags: not open to work."
+CAND_0017960,68,0.9275680000000001,"Built a/b test/lightgbm systems as Recommendation Systems Engineer at Nykaa. Relevant skills: QLoRA, Machine Learning, Qdrant."
+CAND_0001610,69,0.9265,"Built elasticsearch/faiss systems as Machine Learning Engineer at Dream11. Relevant skills: Deep Learning, Pinecone, scikit-learn."
+CAND_0091909,70,0.9252900000000001,"Built a/b test/a/b testing systems as Machine Learning Engineer at Rephrase.ai. Relevant skills: Pinecone, QLoRA, Qdrant. Behavioral flags: inactive 106d."
+CAND_0031593,71,0.9211484000000001,"Built feature pipeline/ranking systems as Search Engineer at Genpact AI. Relevant skills: BentoML, Recommendation Systems, Embeddings. Behavioral flags: inactive 105d."
+CAND_0025882,72,0.9205730666666668,"Built fine-tune/inference systems as Senior Software Engineer (ML) at Freshworks. Relevant skills: scikit-learn, FAISS, LoRA."
+CAND_0080766,73,0.9193524999999999,"Built a/b test/a/b testing systems as Staff Machine Learning Engineer at Salesforce. Relevant skills: LoRA, MLOps, Elasticsearch. Behavioral flags: not open to work."
+CAND_0074225,74,0.9167715000000001,"Built a/b test/lightgbm systems as Machine Learning Engineer at Unacademy. Relevant skills: Recommendation Systems, Semantic Search, Elasticsearch. Behavioral flags: notice 120d."
+CAND_0020877,75,0.908999,"Built elasticsearch/faiss systems as Applied ML Engineer at CRED. Relevant skills: QLoRA, Elasticsearch, PyTorch. Behavioral flags: not open to work."
+CAND_0006557,76,0.90772,"Built feature pipeline/ranking systems as NLP Engineer at Paytm. Relevant skills: Elasticsearch, OpenSearch, Weaviate. Behavioral flags: notice 120d."
+CAND_0053591,77,0.9062399999999999,"Built a/b test/lightgbm systems as AI Engineer at Ola. Relevant skills: Embeddings, Milvus, OpenSearch."
+CAND_0010257,78,0.9061131000000001,"Built production systems as Senior Data Scientist at Google. Relevant skills: Milvus, TensorFlow, OpenSearch. Behavioral flags: notice 120d."
+CAND_0030953,79,0.90579985,"Built a/b test/lightgbm systems as Search Engineer at Nykaa. Relevant skills: MLOps, Learning to Rank, Qdrant. Behavioral flags: not open to work."
+CAND_0015528,80,0.9008875000000001,"Built a/b test/a/b testing systems as Applied ML Engineer at Krutrim. Relevant skills: Weaviate, BentoML, pgvector. Behavioral flags: not open to work."
+CAND_0052328,81,0.8990412500000002,"Built deployment/embedding systems as Recommendation Systems Engineer at Amazon. Relevant skills: LoRA, OpenSearch, QLoRA. Behavioral flags: inactive 93d."
+CAND_0026532,82,0.895254,"Built elasticsearch/faiss systems as Recommendation Systems Engineer at Zomato. Relevant skills: pgvector, LoRA, PEFT. Behavioral flags: inactive 96d."
+CAND_0077285,83,0.8937600000000001,"Built a/b test/lightgbm systems as Recommendation Systems Engineer at Nykaa. Relevant skills: LoRA, Pinecone, Sentence Transformers."
+CAND_0061339,84,0.892816,"Built a/b test/a/b testing systems as Search Engineer at Rephrase.ai. Relevant skills: Information Retrieval, Milvus, BentoML."
+CAND_0044855,85,0.88833,"Built deployment/embedding systems as Senior Data Scientist at Flipkart. Relevant skills: Learning to Rank, OpenSearch, BentoML. Behavioral flags: not open to work."
+CAND_0044883,86,0.88616,"Built deployment/embedding systems as AI Engineer at Mad Street Den. Relevant skills: Embeddings, QLoRA, Fine-tuning LLMs. Behavioral flags: not open to work."
+CAND_0004402,87,0.8804756833333337,"Built deployment/production systems as AI Research Engineer at Yellow.ai. Relevant skills: OpenSearch, PEFT, PyTorch."
+CAND_0095528,88,0.8803971250000002,"Built a/b test/a/b testing systems as Senior Data Scientist at Netflix. Relevant skills: OpenSearch, PyTorch, Semantic Search."
+CAND_0016163,89,0.8793095000000002,"Built production systems as Applied ML Engineer at Dream11. Relevant skills: Weaviate, Deep Learning, TensorFlow. Behavioral flags: notice 120d."
+CAND_0037980,90,0.8791400000000001,"Built evaluation framework/production systems as Senior Applied Scientist at Niramai. Relevant skills: LoRA, PyTorch, NLP. Behavioral flags: inactive 96d."
+CAND_0088385,91,0.8787594666666667,"Built lightgbm/production systems as Computer Vision Engineer at Swiggy. Relevant skills: Deep Learning, Learning to Rank, PyTorch."
+CAND_0052335,92,0.8773221333333334,"Built feature pipeline/ranking systems as Applied ML Engineer at Aganitha. Relevant skills: PyTorch, Machine Learning, Learning to Rank."
+CAND_0047521,93,0.8760668,"Built deployment/production systems as Junior ML Engineer at HCL. Relevant skills: scikit-learn, Pinecone, RAG. Behavioral flags: notice 120d."
+CAND_0069248,94,0.875255416666667,"Built deployment/production systems as AI Research Engineer at Unacademy. Relevant skills: BentoML, TensorFlow, QLoRA. Behavioral flags: notice 120d."
+CAND_0037944,95,0.8747199999999999,"Built a/b test/lightgbm systems as Senior Data Scientist at Vedantu. Relevant skills: Machine Learning, QLoRA, OpenSearch. Behavioral flags: inactive 102d."
+CAND_0057563,96,0.8712,"Built feature pipeline/ranking systems as NLP Engineer at Locobuzz. Relevant skills: Deep Learning, RAG, Elasticsearch. Behavioral flags: not open to work."
+CAND_0093883,97,0.8645706666666668,"Built lightgbm/production systems as AI Research Engineer at Wysa. Relevant skills: Qdrant, Semantic Search, LoRA."
+CAND_0005509,98,0.8627040000000001,"Built deployment/production systems as Data Scientist at Ola. Relevant skills: Fine-tuning LLMs, Qdrant."
+CAND_0024466,99,0.861692,"Built feature pipeline/ranking systems as Search Engineer at PharmEasy. Relevant skills: Recommendation Systems, pgvector, MLOps. Behavioral flags: notice 120d."
+CAND_0054123,100,0.8612762666666667,"Built a/b test/a/b testing systems as Applied ML Engineer at Meta. Relevant skills: pgvector, Weaviate, Qdrant. Behavioral flags: not open to work."
